@@ -1,0 +1,60 @@
+.footer-container{
+    background-color: black;
+    padding: 5rem 0;
+    
+    
+}
+
+.footer-container h2{
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    padding-left: 4.5rem;
+    color: var(--secondary-color);
+}
+
+.footer-form{
+    padding-top: 2rem;
+    width: 40%;
+    
+}
+.form-group{
+    padding: 1rem 0;
+}
+
+.form-label{
+    display: inline-block;
+    color: var(--secondary-color);
+    padding-bottom: 10px;
+    font-weight: 200;
+    /* text-transform: uppercase; */
+}
+.form-input{
+    width: 100%;
+    padding: 1rem;
+    font-size: 1rem;
+    border-radius: 5px;
+}
+.form-submit{
+    color: var(--secondary-color);
+    background-color: var(--primary-lower);
+    padding: 5px 20px;
+    text-transform: uppercase;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: 0.3s ease;
+}
+.form-submit:hover{
+    background-color: var(--primary-light);
+}
+
+.img-footer{
+    width:500px;
+    height: 500px;
+}
+
+.copy-footer{
+    color: var(--secondary-color);
+    font-size: 0.7rem;
+    text-align: center;
+    padding-top: 5rem;
+} 

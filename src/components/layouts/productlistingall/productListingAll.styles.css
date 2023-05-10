@@ -1,0 +1,19 @@
+
+.first-container{
+    margin:0;
+    padding: 5rem 2rem;
+
+}
+
+.grid-container{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+
+}
+
+.grid-item{
+    display: flex;
+    justify-content: center;
+    padding: 20px ;
+    
+}
